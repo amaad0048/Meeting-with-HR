@@ -3,13 +3,13 @@ Welcome to the HR Meeting Toolkit repository! This collection of resources is de
 
 Key Features:
 
-1.Agenda Templates: Comprehensive agenda templates tailored for various HR meetings, covering topics such as onboarding, performance reviews, and conflict resolution.
+1. Agenda Templates: Comprehensive agenda templates tailored for various HR meetings, covering topics such as onboarding, performance reviews, and conflict resolution.
 
-2.Best Practices Guides: Dive into our curated guides to understand best practices for successful HR meetings, fostering a positive and collaborative workplace environment.
+2. Best Practices Guides: Dive into our curated guides to understand best practices for successful HR meetings, fostering a positive and collaborative workplace environment.
 
-3.Communication Scripts: Access ready-to-use scripts for common HR scenarios, facilitating clear and effective communication during meetings.
+3. Communication Scripts: Access ready-to-use scripts for common HR scenarios, facilitating clear and effective communication during meetings.
 
-4.Checklists: Stay organized with detailed checklists for both employees and HR representatives, ensuring no crucial steps are overlooked before, during, or after a meeting.
+4. Checklists: Stay organized with detailed checklists for both employees and HR representatives, ensuring no crucial steps are overlooked before, during, or after a meeting.
 
 Contributions:
 We welcome contributions from the community! Whether you have insights to share, additional resources to add, or improvements to suggest, your input is valued. Together, let's make HR meetings more efficient and impactful.
